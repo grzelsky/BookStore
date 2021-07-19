@@ -1,0 +1,56 @@
+header {
+  position: relative;
+  background-color: #00467a;
+  min-height: 50px;
+  text-align: center;
+  button {
+    position: absolute;
+    display: block;
+    background-color: #00467a;
+    color: rgb(231, 231, 231);
+    font-size: 2.4rem;
+    border: 1px solid #1d72b3;
+    border-radius: 5px;
+    height: 35px;
+    width: 40px;
+    line-height: 40px;
+    top: 50%;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    transition: 0.3s;
+    &:hover {
+      background-color: #1d72b3;
+    }
+    a {
+      text-decoration: none;
+    }
+    &.mainPageButton {
+      margin-left: 50px;
+    }
+    &.cartButton {
+      right: 125px;
+    }
+    &.loginButton {
+      right: 50px;
+    }
+    &.addProduct {
+      right: 125px;
+      font-weight: bold;
+      width: 40px;
+      background-color: #1d72b3;
+      border: none;
+    }
+  }
+  .cartInfo {
+    position: absolute;
+    text-align: center;
+    min-width: 25px;
+    min-height: 25px;
+    line-height: 25px;
+    right: 98px;
+    top: 40%;
+    color: white;
+    background-color: #1d72b3;
+    border-radius: 5px;
+  }
+}

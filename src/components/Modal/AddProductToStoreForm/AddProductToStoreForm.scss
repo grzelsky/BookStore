@@ -1,0 +1,38 @@
+.addProductForm {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: flex-start;
+  justify-content: center;
+  font-size: 1.2rem;
+  label {
+    width: 100%;
+    position: relative;
+    padding: 2% 0 2% 15%;
+    select {
+      position: absolute;
+      right: 15%;
+      width: 45%;
+      // padding: 2px 0 2px 0;
+    }
+    input {
+      position: absolute;
+      right: 15%;
+      width: 45%;
+    }
+  }
+  button {
+    align-self: center;
+    background-color: white;
+    border: 1px solid black;
+    width: 80px;
+    height: 25px;
+    margin-top: 2%;
+    transition: 0.3s;
+    cursor: pointer;
+    &:hover {
+      background-color: black;
+      color: white;
+    }
+  }
+}

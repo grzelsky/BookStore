@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  width: 60vw;
+  // flex-grow: 1;
+  min-height: 50vh;
+}
+
+@media (max-width: 1024px) {
+  .App {
+    width: 100vw;
+  }
+}

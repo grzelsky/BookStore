@@ -1,0 +1,32 @@
+.modal {
+  background-color: rgba(128, 128, 128, 0.801);
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+
+  .content {
+    background-color: white;
+    position: absolute;
+    height: 175px;
+    width: 300px;
+    box-shadow: 0 5px 10px 2px gray;
+    backdrop-filter: blur(10px);
+  }
+  .close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    cursor: pointer;
+    font-size: 2rem;
+    transition: 0.3s;
+    &:hover {
+      color: grey;
+    }
+  }
+}
