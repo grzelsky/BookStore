@@ -6,7 +6,7 @@ import { MdRemoveShoppingCart } from "react-icons/md";
 
 const Cart = () => {
   const { cart, emptyCart, subtractProductFromCart } = useContext(StoreContext);
-  console.log(cart.length);
+
   const productsInCart = cart.map((product) => (
     <ProductInCart
       key={product.id}

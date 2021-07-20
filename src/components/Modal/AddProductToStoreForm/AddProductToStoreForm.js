@@ -29,12 +29,12 @@ const AddProductToStoreForm = () => {
       key={category.id}
       onClick={handleCategoryId}
     >
-      {category.polName}
+      {category.engName}
     </option>
   ));
   const genresForm = genres.map((genre) => (
     <option value={genre.id} key={genre.id}>
-      {genre.genrePl}
+      {genre.genreEng}
     </option>
   ));
 

@@ -24,10 +24,11 @@
   .subtractFromCart {
     background-color: #fa5752;
     border: 1px solid #ad3c39;
+    border-radius: 4px;
     color: #ad3c39;
-    font-size: 1.2rem;
-    line-height: 1.2rem;
-    // font-weight: bold;
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    font-weight: bold;
     width: 25px;
     height: 25px;
     margin-right: 5px;
@@ -36,6 +37,16 @@
     &:hover {
       color: #fa5752;
       background-color: #ad3c39;
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .productInCart {
+    height: 50px;
+    .productInfo {
+      font-size: 1.2rem;
+      width: 190px;
     }
   }
 }

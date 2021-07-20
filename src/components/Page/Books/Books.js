@@ -5,7 +5,6 @@ import GenreTitle from "../GenreTitle/GenreTitle";
 const Books = () => {
   const { books, genreId, productsRender } = useContext(StoreContext);
 
-  console.log(genreId);
   const renderAllBooks = books.map((book) => (
     <CategoryProducts key={book.id} product={book} products={books} />
   ));
