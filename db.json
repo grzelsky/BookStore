@@ -38,7 +38,7 @@
     {
       "id": 3,
       "genrePl": "historyczne",
-      "genreEng": "history"
+      "genreEng": "historic"
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
   "books": [
     {
       "id": "book_1",
-      "title": "Book_title1",
+      "title": "AdventureBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -60,7 +60,7 @@
     },
     {
       "id": "book_2",
-      "title": "Book_title2",
+      "title": "AdventureBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -71,7 +71,7 @@
     },
     {
       "id": "book_3",
-      "title": "Book_title3",
+      "title": "AdventureBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -82,7 +82,7 @@
     },
     {
       "id": "book_4",
-      "title": "Book_title4",
+      "title": "AdventureBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -93,7 +93,7 @@
     },
     {
       "id": "book_5",
-      "title": "Book_title5",
+      "title": "AdventureBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -104,7 +104,7 @@
     },
     {
       "id": "book_6",
-      "title": "Book_title6",
+      "title": "FantasyBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -115,7 +115,7 @@
     },
     {
       "id": "book_7",
-      "title": "Book_title7",
+      "title": "FantasyBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -126,7 +126,7 @@
     },
     {
       "id": "book_8",
-      "title": "Book_title8",
+      "title": "FantasyBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -137,7 +137,7 @@
     },
     {
       "id": "book_9",
-      "title": "Book_title9",
+      "title": "FantasyBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -148,7 +148,7 @@
     },
     {
       "id": "book_10",
-      "title": "Book_title10",
+      "title": "FantasyBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -159,7 +159,7 @@
     },
     {
       "id": "book_11",
-      "title": "Book_title11",
+      "title": "HistoricBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -170,7 +170,7 @@
     },
     {
       "id": "book_12",
-      "title": "Book_title12",
+      "title": "HistoricBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -181,7 +181,7 @@
     },
     {
       "id": "book_13",
-      "title": "Book_title13",
+      "title": "HistoricBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -192,7 +192,7 @@
     },
     {
       "id": "book_14",
-      "title": "Book_title14",
+      "title": "HistoricBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -203,7 +203,7 @@
     },
     {
       "id": "book_15",
-      "title": "Book_title15",
+      "title": "HistoricBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -214,7 +214,7 @@
     },
     {
       "id": "book_16",
-      "title": "Book_title16",
+      "title": "CookingBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -225,7 +225,7 @@
     },
     {
       "id": "book_17",
-      "title": "Book_title17",
+      "title": "CookingBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -236,7 +236,7 @@
     },
     {
       "id": "book_18",
-      "title": "Book_title18",
+      "title": "CookingBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -247,7 +247,7 @@
     },
     {
       "id": "book_19",
-      "title": "Book_title19",
+      "title": "CookingBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -258,7 +258,7 @@
     },
     {
       "id": "book_20",
-      "title": "Book_title20",
+      "title": "CookingBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -271,7 +271,7 @@
   "eBooks": [
     {
       "id": "eBook_1",
-      "title": "eBook_title1",
+      "title": "AdventureEBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -282,7 +282,7 @@
     },
     {
       "id": "eBook_2",
-      "title": "eBook_title2",
+      "title": "AdventureEBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -293,7 +293,7 @@
     },
     {
       "id": "eBook_3",
-      "title": "eBook_title3",
+      "title": "AdventureEBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -304,7 +304,7 @@
     },
     {
       "id": "eBook_4",
-      "title": "eBook_title4",
+      "title": "AdventureEBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -315,7 +315,7 @@
     },
     {
       "id": "eBook_5",
-      "title": "eBook_title5",
+      "title": "AdventureEBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -326,7 +326,7 @@
     },
     {
       "id": "eBook_6",
-      "title": "eBook_title6",
+      "title": "FantasyEBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -337,7 +337,7 @@
     },
     {
       "id": "eBook_7",
-      "title": "eBook_title7",
+      "title": "FantasyEBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -348,7 +348,7 @@
     },
     {
       "id": "eBook_8",
-      "title": "eBook_title8",
+      "title": "FantasyEBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -359,7 +359,7 @@
     },
     {
       "id": "eBook_9",
-      "title": "eBook_title9",
+      "title": "FantasyEBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -370,7 +370,7 @@
     },
     {
       "id": "eBook_10",
-      "title": "eBook_title10",
+      "title": "FantasyEBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -381,7 +381,7 @@
     },
     {
       "id": "eBook_11",
-      "title": "eBook_title11",
+      "title": "HistoricEBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -392,7 +392,7 @@
     },
     {
       "id": "eBook_12",
-      "title": "eBook_title12",
+      "title": "HistoricEBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -403,7 +403,7 @@
     },
     {
       "id": "eBook_13",
-      "title": "eBook_title13",
+      "title": "HistoricEBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -414,7 +414,7 @@
     },
     {
       "id": "eBook_14",
-      "title": "eBook_title14",
+      "title": "HistoricEBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -425,7 +425,7 @@
     },
     {
       "id": "eBook_15",
-      "title": "eBook_title15",
+      "title": "HistoricEBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -436,7 +436,7 @@
     },
     {
       "id": "eBook_16",
-      "title": "eBook_title16",
+      "title": "CookingEBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -447,7 +447,7 @@
     },
     {
       "id": "eBook_17",
-      "title": "eBook_title17",
+      "title": "CookingEBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -458,7 +458,7 @@
     },
     {
       "id": "eBook_18",
-      "title": "eBook_title18",
+      "title": "CookingEBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -469,7 +469,7 @@
     },
     {
       "id": "eBook_19",
-      "title": "eBook_title19",
+      "title": "CookingEBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -480,7 +480,7 @@
     },
     {
       "id": "eBook_20",
-      "title": "eBook_title20",
+      "title": "CookingEBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -493,7 +493,7 @@
   "audioBooks": [
     {
       "id": "audioBook_1",
-      "title": "audioBook_title1",
+      "title": "AdventureAudioBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -504,7 +504,7 @@
     },
     {
       "id": "audioBook_2",
-      "title": "audioBook_title2",
+      "title": "AdventureAudioBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -515,7 +515,7 @@
     },
     {
       "id": "audioBook_3",
-      "title": "audioBook_title3",
+      "title": "AdventureAudioBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -526,7 +526,7 @@
     },
     {
       "id": "audioBook_4",
-      "title": "audioBook_title4",
+      "title": "AdventureAudioBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -537,7 +537,7 @@
     },
     {
       "id": "audioBook_5",
-      "title": "audioBook_title5",
+      "title": "AdventureAudioBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -548,7 +548,7 @@
     },
     {
       "id": "audioBook_6",
-      "title": "audioBook_title6",
+      "title": "FantasyAudioBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -559,7 +559,7 @@
     },
     {
       "id": "audioBook_7",
-      "title": "audioBook_title7",
+      "title": "FantasyAudioBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -570,7 +570,7 @@
     },
     {
       "id": "audioBook_8",
-      "title": "audioBook_title8",
+      "title": "FantasyAudioBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -581,7 +581,7 @@
     },
     {
       "id": "audioBook_9",
-      "title": "audioBook_title9",
+      "title": "FantasyAudioBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -592,7 +592,7 @@
     },
     {
       "id": "audioBook_10",
-      "title": "audioBook_title10",
+      "title": "FantasyAudioBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -603,7 +603,7 @@
     },
     {
       "id": "audioBook_11",
-      "title": "audioBook_title11",
+      "title": "HistoricAudioBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -614,7 +614,7 @@
     },
     {
       "id": "audioBook_12",
-      "title": "audioBook_title12",
+      "title": "HistoricAudioBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -625,7 +625,7 @@
     },
     {
       "id": "audioBook_13",
-      "title": "audioBook_title13",
+      "title": "HistoricAudioBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -636,7 +636,7 @@
     },
     {
       "id": "audioBook_14",
-      "title": "audioBook_title14",
+      "title": "HistoricAudioBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -647,7 +647,7 @@
     },
     {
       "id": "audioBook_15",
-      "title": "audioBook_title15",
+      "title": "HistoricAudioBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -658,7 +658,7 @@
     },
     {
       "id": "audioBook_16",
-      "title": "audioBook_title16",
+      "title": "CookingAudioBook_1",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -669,7 +669,7 @@
     },
     {
       "id": "audioBook_17",
-      "title": "audioBook_title17",
+      "title": "CookingAudioBook_2",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -680,7 +680,7 @@
     },
     {
       "id": "audioBook_18",
-      "title": "audioBook_title18",
+      "title": "CookingAudioBook_3",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -691,7 +691,7 @@
     },
     {
       "id": "audioBook_19",
-      "title": "audioBook_title19",
+      "title": "CookingAudioBook_4",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,
@@ -702,7 +702,7 @@
     },
     {
       "id": "audioBook_20",
-      "title": "audioBook_title20",
+      "title": "CookingAudioBook_5",
       "price": 2.5,
       "avaibleProducts": 20,
       "buyQuantity": 0,

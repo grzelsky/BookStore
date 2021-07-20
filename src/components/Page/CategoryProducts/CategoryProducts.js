@@ -17,7 +17,7 @@ const CategoryProducts = ({ product, products }) => {
         <img src={image} alt="bookIcon" />
       </div>
       <div className="productInfo" id={id}>
-        <p className="title">title: {title}</p>
+        <p className="title">TITLE: {title}</p>
         <p className="price">price: {price} zł</p>
         {!adminLogged && (
           <button
