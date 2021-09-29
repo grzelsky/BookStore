@@ -1,0 +1,715 @@
+{
+  "usersData": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "isLogged": false
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "polName": "książki",
+      "engName": "books"
+    },
+    {
+      "id": 2,
+      "polName": "eBooki",
+      "engName": "eBooks"
+    },
+    {
+      "id": 3,
+      "polName": "audioBooki",
+      "engName": "audioBooks"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genrePl": "przygodowe",
+      "genreEng": "adventure"
+    },
+    {
+      "id": 2,
+      "genrePl": "fantazy",
+      "genreEng": "fantasy"
+    },
+    {
+      "id": 3,
+      "genrePl": "historyczne",
+      "genreEng": "historic"
+    },
+    {
+      "id": 4,
+      "genrePl": "gotowanie",
+      "genreEng": "cooking"
+    }
+  ],
+  "books": [
+    {
+      "id": "book_1",
+      "title": "AdventureBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 1,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_2",
+      "title": "AdventureBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 1,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_3",
+      "title": "AdventureBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 1,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_4",
+      "title": "AdventureBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 1,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_5",
+      "title": "AdventureBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 1,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_6",
+      "title": "FantasyBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 2,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_7",
+      "title": "FantasyBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 2,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_8",
+      "title": "FantasyBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 2,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_9",
+      "title": "FantasyBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 2,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_10",
+      "title": "FantasyBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 2,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_11",
+      "title": "HistoricBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 3,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_12",
+      "title": "HistoricBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 3,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_13",
+      "title": "HistoricBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 3,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_14",
+      "title": "HistoricBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 3,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_15",
+      "title": "HistoricBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 3,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_16",
+      "title": "CookingBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 4,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_17",
+      "title": "CookingBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 4,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_18",
+      "title": "CookingBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 4,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_19",
+      "title": "CookingBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 4,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    },
+    {
+      "id": "book_20",
+      "title": "CookingBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "books",
+      "genreId": 4,
+      "categoryId": 1,
+      "image": "/icons/books.png"
+    }
+  ],
+  "eBooks": [
+    {
+      "id": "eBook_1",
+      "title": "AdventureEBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 1,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_2",
+      "title": "AdventureEBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 1,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_3",
+      "title": "AdventureEBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 1,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_4",
+      "title": "AdventureEBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 1,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_5",
+      "title": "AdventureEBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 1,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_6",
+      "title": "FantasyEBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 2,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_7",
+      "title": "FantasyEBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 2,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_8",
+      "title": "FantasyEBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 2,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_9",
+      "title": "FantasyEBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 2,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_10",
+      "title": "FantasyEBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 2,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_11",
+      "title": "HistoricEBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 3,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_12",
+      "title": "HistoricEBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 3,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_13",
+      "title": "HistoricEBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 3,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_14",
+      "title": "HistoricEBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 3,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_15",
+      "title": "HistoricEBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 3,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_16",
+      "title": "CookingEBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 4,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_17",
+      "title": "CookingEBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 4,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_18",
+      "title": "CookingEBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 4,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_19",
+      "title": "CookingEBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 4,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    },
+    {
+      "id": "eBook_20",
+      "title": "CookingEBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "eBooks",
+      "genreId": 4,
+      "categoryId": 2,
+      "image": "/icons/ebooks.png"
+    }
+  ],
+  "audioBooks": [
+    {
+      "id": "audioBook_1",
+      "title": "AdventureAudioBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 1,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_2",
+      "title": "AdventureAudioBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 1,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_3",
+      "title": "AdventureAudioBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 1,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_4",
+      "title": "AdventureAudioBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 1,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_5",
+      "title": "AdventureAudioBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 1,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_6",
+      "title": "FantasyAudioBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 2,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_7",
+      "title": "FantasyAudioBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 2,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_8",
+      "title": "FantasyAudioBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 2,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_9",
+      "title": "FantasyAudioBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 2,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_10",
+      "title": "FantasyAudioBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 2,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_11",
+      "title": "HistoricAudioBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 3,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_12",
+      "title": "HistoricAudioBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 3,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_13",
+      "title": "HistoricAudioBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 3,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_14",
+      "title": "HistoricAudioBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 3,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_15",
+      "title": "HistoricAudioBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 3,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_16",
+      "title": "CookingAudioBook_1",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 4,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_17",
+      "title": "CookingAudioBook_2",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 4,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_18",
+      "title": "CookingAudioBook_3",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 4,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_19",
+      "title": "CookingAudioBook_4",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 4,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    },
+    {
+      "id": "audioBook_20",
+      "title": "CookingAudioBook_5",
+      "price": 2.5,
+      "avaibleProducts": 20,
+      "buyQuantity": 0,
+      "category": "audioBooks",
+      "genreId": 4,
+      "categoryId": 3,
+      "image": "/icons/audiobooks.png"
+    }
+  ]
+}
